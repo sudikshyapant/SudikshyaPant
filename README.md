@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SudikshyaPant.
 - 👀 I’m interested in AI/ML/Data Science.
-- 🌱 I’m currently learning a lot of stuffs.
-- 💞️ I’m looking to collaborate on a new project.
+- 🌱 I’m currently learning SQL & Python.
+- 💞️ I’m looking to collaborate on anything.
 - 📫 You can reach me through email at suizpant123@gmail.com.
 
 <!---
