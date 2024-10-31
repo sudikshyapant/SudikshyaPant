@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @SudikshyaPant.
-- 🌱 I’m working in Rust.
+- 🌱 I like working in Rust. ![image](https://github.com/user-attachments/assets/857223a6-f575-4749-8ec0-1b2333fafecc)
+
 - 📫 You can reach me through email at suizpant123@gmail.com.
 
 <!---
